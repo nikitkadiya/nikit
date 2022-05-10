@@ -1,8 +1,6 @@
 /*---------------------------
     Banner Area Styles 
 -----------------------------*/
-
-
 .slide{
     padding-bottom: 67px;
     position: relative;
@@ -423,5 +421,14 @@ xclip
         background: #212428bf;
       }
 }
+//new css
 
+.slide .content .inner{
+	margin-top: 20% !important;
+    display: block;
+}
 
+.slide .social-share-inner-left .social-share {
+    margin: -10px -12px;
+    flex-wrap: nowrap;
+}
