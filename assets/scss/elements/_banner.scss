@@ -48,7 +48,7 @@
     }
 
     .content {
-        margin-top: 150px;
+        /*--margin-top: 150px;--*/
 
         @media #{$lg-layout} {
             margin-top: 50px;
@@ -63,7 +63,7 @@
         }
 
         .inner {
-            margin-bottom: 142px;
+            margin-bottom: 13px;
 
             @media #{$smlg-device} {
                 margin-bottom: 40px !important;
@@ -671,7 +671,7 @@
             padding: 150px 0;
         }
         .content {
-            margin-top: 0;
+            margin-top: 30%;
             .social-share-inner-left {
                 ul {
                     li {
